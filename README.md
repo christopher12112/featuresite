@@ -66,7 +66,7 @@ h1,h2,h3,h4,h5,h6 {
      
  
     <div class="w3-col l6 w3-padding-large">
-      <img src="https://www.uoe.co.uk/wp-content/uploads/2018/07/Post-box-1.jpg" class="w3-round w3-image w3-opacity-min" alt="Menu" style="width:100%">
+      <img src="https://www.uoe.co.uk/wp-content/uploads/2018/07/Post-box-1.jpg" class="w3-round w3-image w3-opacity-min" alt="Menu" style="width:300%">
     </div>
   </div>
 
