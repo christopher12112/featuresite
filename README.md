@@ -57,7 +57,7 @@ h1,h2,h3,h4,h5,h6 {
     <div class="w3-col l6 w3-padding-large">
       <h1 class="w3-center">Initialization</h1><br>
       <h4> The Start</h4>
-      <p class= "w3-text-black"> Initially i wanted to create a soulation for poeple who are'nt always available to receive there packages because of work, travel, or whatever instance. So i created DropIT. This service allows sellers on sites like Amazon, Ebay, and other platforms an option to aquire what we call "Lockers". We originally started back in 2017 but due to complications we had to take a pause and now were back and running stronger and now we are offering better and smoother serivce quality.</p><br>
+      <p class= "w3-text-black"> Initially i wanted to create a solution for poeple who are'nt always available to receive there packages because of work, travel, or whatever instance. So i created DropIT. This service allows sellers on sites like Amazon, Ebay, and other platforms an option to aquire what we call "Lockers". We originally started back in 2017 but due to complications we had to take a pause and now were back and running stronger and now we are offering better and smoother serivce quality.</p><br>
     
       <h4>Features</h4>
       <p class="w3-text-black">We are proud to announce that we offering our new hub service, That we have deemed the name DROP IT.
@@ -80,7 +80,7 @@ h1,h2,h3,h4,h5,h6 {
     <p>You can also contact us by phone 00553123-2313 or email DropitSupport@net.com, or you can send us a message here:</p>
     <form action="/action_page.php" target="_blank">
       <p><input class="w3-input w3-padding-16" type="text" placeholder="Name" required name="Name"></p>
-      <p><input class="w3-input w3-padding-16" type="number" placeholder="Question/Issue" required name="People"></p>
+      <p><input class="w3-input w3-padding-16" type="text" placeholder="Question/Issue" required name="People"></p>
       <p><input class="w3-input w3-padding-16" type="datetime-local" placeholder="Date and time" required name="date" value="2018-10-16T18:00"></p>
       <p><input class="w3-input w3-padding-16" type="text" placeholder="Email @" required name="Message"></p>
       <p><button class="w3-button w3-light-grey w3-section" type="submit">SEND MESSAGE</button></p>
