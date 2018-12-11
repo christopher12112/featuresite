@@ -40,7 +40,7 @@ h1,h2,h3,h4,h5,h6 {
   <!-- About Section -->
   <div class="w3-row w3-padding-64" id="about">
     <div class="w3-col m6 w3-padding-large w3-hide-small">
-     <img src="https://maxcdn.icons8.com/app/uploads/2016/10/globe-map-icon.png" class="w3-round w3-image w3-opacity-min" alt="map" width="400" height="400">
+     <img src="https://maxcdn.icons8.com/app/uploads/2016/10/globe-map-icon.png" class="w3-round w3-image w3-opacity-min" alt="map" width="250" height="250">
     </div>
 
     <div class="w3-col m6 w3-padding-large">
