@@ -46,7 +46,7 @@ h1,h2,h3,h4,h5,h6 {
       <h1 class="w3-center">Locations</h1><br>
       <h5 class="w3-center">.......</h5>
       <img src="https://maxcdn.icons8.com/app/uploads/2016/10/globe-map-icon.png" class="w3-round w3-image w3-opacity-min" alt="map icon" width="600" height="750">
-      <p class="w3-large">We are current working with a few vendors on partnerships inorder to provide more lockers to a town near you </p>
+      <p class="w3-large">We are current working with a few vendors on partnerships inorder to provide more lockers to a town near you, However we have stations currently in New York and New Jersey. </p>
 
   </div>
   
