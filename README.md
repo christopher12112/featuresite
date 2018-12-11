@@ -3,6 +3,7 @@
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <style>
 body {font-family: "Times New Roman", Georgia, Serif;}
 h1,h2,h3,h4,h5,h6 {
@@ -75,7 +76,7 @@ h1,h2,h3,h4,h5,h6 {
   <!-- Contact Section -->
   <div class="w3-container w3-padding-64" id="contact">
     <h1>Contact</h1><br>
-    <p>Were offering full-services, but we do need your support to keep this company up and going. So Please subscribe to our mailing list for updates and please dont hesitate to contact us for help or any other inquries..</p>
+    <p>We offering full-services, but we do need you support to keep this company up and going. So Please subscribe to our mailing list for updates and dont hesitate to contact us for help or any other inquries..</p>
     <p class="w3-text-blue-grey w3-large"><b>DropIt Services, 42nd Vale St, 12141 New York, NY</b></p>
     <p>You can also contact us by phone 00553123-2313 or email DropitSupport@net.com, or you can send us a message here:</p>
     <form action="/action_page.php" target="_blank">
@@ -90,3 +91,10 @@ h1,h2,h3,h4,h5,h6 {
 <!-- End page content -->
 </div>
 
+<!-- Footer -->
+<footer class="w3-center w3-light-grey w3-padding-32">
+  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-text-green">w3.css</a></p>
+</footer>
+
+</body>
+</html>
