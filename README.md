@@ -75,7 +75,7 @@ h1,h2,h3,h4,h5,h6 {
   <!-- Contact Section -->
   <div class="w3-container w3-padding-64" id="contact">
     <h1>Contact</h1><br>
-    <p>We offering full-services, but we do need you support to keep this company up and going. So Please subscribe to our mailing list for updates and dont hesitate to contact us for help or any other inquries..</p>
+    <p>We offering full-services, but we do need you support to keep this company up and going. So Please subscribe to our mailing list in order to create an account and for updates. Also dont hesitate to contact us for help or any other inquries..</p>
     <p class="w3-text-blue-grey w3-large"><b>DropIt Services, 42nd Vale St, 12141 New York, NY</b></p>
     <p>You can also contact us by phone 00553123-2313 or email DropitSupport@net.com, or you can send us a message here:</p>
     <form action="/action_page.php" target="_blank">
